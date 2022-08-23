@@ -1,0 +1,10 @@
+<svg id="Component_4_4" data-name="Component 4 – 4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 12.769 12.769">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.854" y1="0.146" x2="0.146" y2="0.854" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="red"/>
+      <stop offset="1" stop-color="#850000"/>
+    </linearGradient>
+  </defs>
+  <circle id="Ellipse_13" data-name="Ellipse 13" cx="6.385" cy="6.385" r="6.385" fill="url(#linear-gradient)"/>
+  <path id="Path_53" data-name="Path 53" d="M151.412-36.632a1.533,1.533,0,0,0-1.533-1.533h-3.92a1.533,1.533,0,0,0-1.533,1.533v1.824a1.533,1.533,0,0,0,1.533,1.533h3.92a1.533,1.533,0,0,0,1.533-1.533Zm-2.305,1.049-1.758.869c-.069.038-.3-.012-.3-.091V-36.59c0-.079.236-.129.305-.09l1.683.915C149.1-35.724,149.178-35.622,149.106-35.583Z" transform="translate(-141.609 42.088)" fill="#fff"/>
+</svg>
